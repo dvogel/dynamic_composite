@@ -1,0 +1,6 @@
+TAGS
+MANIFEST
+dist/
+.*.swp
+*.pyc
+
